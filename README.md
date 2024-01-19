@@ -28,6 +28,11 @@ To view the event registration form, open the `index.html` file in a web browser
 - Proper spacing and alignment for a clean and organized look.
 - Buttons are styled with appropriate margins and padding for a better user experience.
 
+## Live Demo
+
+You can view a live demo of the Event 1 registration form on Netlify: [Event 1 Registration Form](https://netlify-event1-search.netlify.app)
+
+
 ## Usage
 
 Feel free to use or modify this code for your event registration forms. You can customize the event details, add more form fields, or enhance the styling based on your requirements.
